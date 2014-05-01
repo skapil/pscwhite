@@ -1,0 +1,10 @@
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\bin\Debug\PSCTest.exe.config
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\bin\Debug\PSCTest.exe
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\bin\Debug\PSCTest.pdb
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\bin\Debug\Castle.Core.dll
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\bin\Debug\TestStack.White.dll
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\bin\Debug\Castle.Core.xml
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\bin\Debug\TestStack.White.pdb
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\obj\Debug\PSCTest.exe
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\obj\Debug\PSCTest.pdb
+C:\mywork\workspace\teststack_white\pscwhiteauto\PSCTest\PSCTest\obj\Debug\PSCTest.csprojResolveAssemblyReference.cache
