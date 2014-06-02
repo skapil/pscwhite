@@ -1,0 +1,4 @@
+ID,FirstName,MiddleName,LastName,DOB,Gender,ZipCode,MobilePhone,HomePhone,Email,PreferredMethodOfContact,PreferredCommunicationLangauge
+1,Ghana,,Accra,01/01/1980,F,94086,7777777777,9999999999,ghana@grr.la,Mobile Phone,sp
+2,Liberia,,Monrovia,01/01/1981,F,94089,0000000000,1111111111,liberia@grr.la,Email,ja
+9,almora,,hal,01/01/1991,F,94089,0000000000,1111111111,alen@grr.la,SMS,Sp

@@ -10,4 +10,8 @@
     <FallbackCulture>en-US</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\tools\nunit\NUnit-2.6.3\bin\nunit.exe</StartProgram>
+  </PropertyGroup>
 </Project>

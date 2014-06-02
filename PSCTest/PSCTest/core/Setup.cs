@@ -4,7 +4,6 @@
  * 
  */
 
-
 using System;
 using System.Diagnostics;
 using TestStack.White.UIItems.Finders;
@@ -32,7 +31,7 @@ namespace PSCTest.core
 
             application = TestStack.White.Application.Launch(psi);
             Console.WriteLine("******************** Wait for 30 seconds for PSC to start ********************");
-            Thread.Sleep(30000);
+            Thread.Sleep(15000);
             return application;
         }
         

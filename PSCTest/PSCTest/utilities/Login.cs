@@ -15,7 +15,7 @@ namespace PSCTest.core
             Input.Type(loginWindow, "txtUsername", "labtech6@noreply.com");
             Input.Type(loginWindow, "txtPassword", "Theranos#123");
 
-            Input.Select(loginWindow, "Login");
+            Input.Click(loginWindow, "Login");
         }
      }
 }
